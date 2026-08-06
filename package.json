@@ -1,0 +1,28 @@
+{
+  "name": "discbot---marcos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "webhook": "node webhook.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassminn8954/discbot---marcos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yassminn8954/discbot---marcos/issues"
+  },
+  "homepage": "https://github.com/yassminn8954/discbot---marcos#readme",
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "tweetnacl": "^1.0.3"
+  }
+}

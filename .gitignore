@@ -1,0 +1,7 @@
+.env
+.env.example
+node_modules/
+data/
+cloudflared.exe
+test/fixtures/
+.DS_Store
